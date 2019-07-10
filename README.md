@@ -1,4 +1,4 @@
-# technical_documentation_page
+# technical_documentation_page_example
 FCC Responsive Web Design Project - Technical Documentation Page
 
 # Github live page:
