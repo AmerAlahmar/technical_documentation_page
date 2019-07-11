@@ -1,1 +1,13 @@
+body {
+    scroll-behavior: smooth;
+    display: grid;
+    grid-template: "navbar main-doc" / 1fr 4fr;
+}
 
+#navbar {
+    grid-area: navbar;
+}
+
+#main-doc {
+    grid-area: main-doc;
+}
